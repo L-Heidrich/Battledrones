@@ -1,6 +1,8 @@
 # Battledrones
 3D multiplayer shooter developed in Unity. Photon was used to implement multiplayer features.
 
+Controls: 
+
 WASD: Walk <br />
 Left-click: Shoot <br />
 Space: Jump <br />

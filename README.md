@@ -1,7 +1,8 @@
 # Battledrones
 3D multiplayer shooter developed in Unity. Photon was used to implement multiplayer features. <br />
-To test the game just run the .exe file in the build folder.
-Source code can be viewed in the projects folder.
+To test the game just run the .exe file in the build folder.<br />
+Source code can be viewed in the projects folder.<br />
+
 Controls: 
 
 WASD: Walk <br />

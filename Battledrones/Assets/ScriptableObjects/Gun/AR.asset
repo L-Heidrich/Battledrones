@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 485f344323c940a48ab1929de6ce42c2, type: 3}
+  m_Name: AR
+  m_EditorClassIdentifier: 
+  name: AR
+  prefab: {fileID: 3703708478592118594, guid: 5c19ae528043b2740bbc728ed47e11e3, type: 3}
+  firerate: 0.13
+  bloom: 110
+  aimBloom: 30
+  recovery: 0
+  pellets: 0
+  dmg: 170
+  recoil: 10
+  kickback: 0.05
+  aimSpeed: 20
+  reloadTime: 1.2
+  burst: 0
+  shotSound: {fileID: 8300000, guid: fb34aaedea0f9c34db4880b8f13decbb, type: 3}
+  randomPitch: 0.025
+  mainFov: 0.8
+  weaponFov: 0.1
+  maxAmmo: 150
+  clipSize: 20
